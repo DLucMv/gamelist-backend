@@ -1,4 +1,4 @@
-package entities;
+package com.dlmv.gamelist.entities;
 
 import jakarta.persistence.*;
 
