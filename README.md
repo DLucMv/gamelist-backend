@@ -6,11 +6,13 @@ Aqui, estamos usando uma técnica de mapeamento objeto relacional que permite fa
 ### DTO (Data Transfer Object):
 Aqui, estamos falando sobre o transporte de dados entre difetentes componentes do sistema.
 ## Tecnologias utilizadas:
-### Back end:
+### Linguagens:
 * Java
+* SQL
+### Framework
 * Spring Boot
-* JPA/Hibernate
+### Banco de dados
+* H2
+* Postgresql
+### Gerenciamento
 * Maven
-
-### Front end:
-* JavaScript
